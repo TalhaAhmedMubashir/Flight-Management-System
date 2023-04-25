@@ -5,7 +5,7 @@ The FMS uses information such as the aircraft's current position, flight plan, w
 
 ## What is implemented?
 
-This is the basic model use to demostrate the weather update and flight presence with name. 
+This is the basic model use to demonstrate the weather update and flight presence with name. 
 
 # On Server (Express)
 1) This is system use two ways to authenticate a user, user can login using facebook and a user can also enter credentials to signup/signin.
