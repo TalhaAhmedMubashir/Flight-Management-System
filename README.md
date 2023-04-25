@@ -1,4 +1,4 @@
-# What is Fligth Management System? 
+# What is Flight Management System? 
  Flight Management System (FMS) is a computerized avionics system found in modern aircraft that assists pilots in flight planning, navigation, and performance monitoring.
 
 The FMS uses information such as the aircraft's current position, flight plan, weather conditions, and aircraft performance characteristics to calculate the most efficient route to the destination. It also provides guidance for the aircraft's autopilot system to follow this calculated route
