@@ -10,12 +10,12 @@ This is the basic model use to demonstrate the weather update and flight presenc
 # On Server (Express)
 1) This is system use two ways to authenticate a user, user can login using facebook and a user can also enter credentials to signup/signin.
 2) Authorization middleware has been implemented in this project.
-3) JWT token autherization has been implemented.
-4) Facebook token autherization has been implemented.
+3) JWT token authorizatio has been implemented.
+4) Facebook token authorization has been implemented.
 5) Server side routing has been implemented.
-6) Mongooes database support is available.
+6) Mongoos database support is available.
 7) Models use to store data in database.
-8) Nodemon is isntalled to quick reload on server.
+8) Nodemon is installed to quick reload on server.
 9) REST api is implemented.
 
 # On Web application (REACT JS)
